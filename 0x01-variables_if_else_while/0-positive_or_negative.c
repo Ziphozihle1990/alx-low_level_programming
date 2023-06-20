@@ -1,12 +1,3 @@
-cd low - level_programming
-mkdid 0x01 - variables_if_else_while
-cd 0x01 - variables_if_else_while
-vi README.md
-project
-0x01.c - variables, if, else, while
-esc capital letter ZZ
-vi 0 - positive_negative.c
-copy script and paste
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
